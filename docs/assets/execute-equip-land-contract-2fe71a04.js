@@ -1,1 +1,0 @@
-import{S as c,u as e}from"./index-eb91888a.js";async function u(n,a){const{executeTransaction:t}=e(),o=s(n,a);return!!await t(o)}function s(n,a){return{actions:[{account:c.M__FEDERATION,name:"setland",authorization:[{actor:n.name,permission:"active"}],data:{account:n.name,land_id:a}}]}}export{u as e};
