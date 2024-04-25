@@ -1,1 +1,0 @@
-import{g as t,S as e,T as s}from"./index-e08ba55d.js";const i=async o=>await t({options:{code:e.EMPORIUM,index_position:2,key_type:"i64",limit:"10000",scope:e.EMPORIUM,table:s.tasks,upper_bound:o,lower_bound:o}});export{i as g};
