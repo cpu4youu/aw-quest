@@ -1,1 +1,0 @@
-import{e as i,s as n}from"./index-016847eb.js";const o=i({"0%":{backgroundPosition:"0% 0%"},"100%":{backgroundPosition:"-135% 0%"}}),e=n("div",{background:"linear-gradient( -90deg, rgba(3, 16, 32, 0.65), rgba(3, 16, 32, 0.85) ,rgba(3, 16, 32, 0.65))",br:"10px",backgroundSize:"400% 400%",animation:`${o} 1.2s ease-in-out infinite`});export{e as S};
