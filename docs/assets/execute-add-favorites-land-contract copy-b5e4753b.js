@@ -1,1 +1,0 @@
-import{S as s,u as e}from"./index-309a49e8.js";async function u(a,n){const{executeTransaction:t}=e(),o=r(a,n);return!!await t(o)}function r(a,n){return{actions:[{account:s.MEMBERS_MC,name:"addfavland",authorization:[{actor:a.name,permission:a.authorization.permission}],data:{wallet:a.name,asset_id:n}}]}}export{u as e};
