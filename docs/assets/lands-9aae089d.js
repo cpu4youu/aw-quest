@@ -1,1 +1,0 @@
-import{k as e,S as s,V as n,T as o}from"./index-eae94b7d.js";const i=["eyeke","kavian","veles","magor","neri","naron"],T=async a=>await e({options:{code:s.M__FEDERATION,index_position:1,limit:"1",scope:n[a],table:o.M_FEDERATION_POOLS}});export{T as g,i as p};
