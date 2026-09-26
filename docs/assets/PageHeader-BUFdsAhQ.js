@@ -1,1 +1,0 @@
-import{j as e}from"./index-FsBpe75T.js";function i({title:a,image:s}){return e.jsxs("header",{className:"page-header",children:[e.jsx("img",{className:"page-header__img",src:s,alt:""}),e.jsx("div",{className:"page-header__inner",children:e.jsx("h1",{className:"page-header__title",children:a})})]})}export{i as P};
